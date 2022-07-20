@@ -22,7 +22,7 @@
 
 * En önemlisi tüm floodu okuma becerisi <3
 
-# İlk önce yeni bir keplr cüzandan sei'de ki 12 kelimemizi kullanarak cüzdan oluşturuyoruz.
+# İlk önce yeni bir keplr cüzdanına sei'de ki 24 kelimemizi kullanarak cüzdan oluşturuyoruz.
 
 ### Daha sonra https://testnets.cosmosrun.info/sei-testnet üzerine gidip sağ üsten cüzdanı bağlamalıyız.
 
